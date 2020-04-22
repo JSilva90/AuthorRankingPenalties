@@ -15,4 +15,4 @@ This code was used to produce the following publications:
 
 
 
-For more details on the code or any other information, feel free to contact me at: jorge.m.silva@inesctec.pt
+If you use this code please consider citing at least one of the previous publications. For more details on the code or any other information, feel free to contact me at: jorge.m.silva@inesctec.pt
